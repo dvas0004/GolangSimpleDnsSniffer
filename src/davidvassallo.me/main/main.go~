@@ -75,8 +75,6 @@ func main() {
 	//linux example
 	//devName = "eth0"
 
-	// define an elasticsearch server to send to
-	es_server = "192.168.10.15"
 	// define an elasticsearch index to send to 
 	es_index = "dns_index"
 	es_docType = "syslog"
